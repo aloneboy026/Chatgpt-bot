@@ -52,7 +52,7 @@ SOURCE_TEXT = f"""
 """
 
 
-x=["❤️","🎉","✨","🪸","🎉","🎈","🎯"]
+x=["💞","⚔️","✨","🪸","🎉","🎈","👿"]
 g=choice(x)
 MAIN = [
     [
@@ -95,7 +95,7 @@ PNG_BTN = [
      ],
 ]
 SOURCE_BUTTONS = InlineKeyboardMarkup([[InlineKeyboardButton('sᴏᴜʀᴄᴇ', url=f"{SOURCE}")]])
-HELP_READ = "➻ ᴜsᴇ /chatgpt write a simple flask app in python.  \n\n **➻ ᴜsᴇ /ping ᴛᴏ ᴄʜᴇᴄᴋ ᴛʜᴇ ᴘɪɴɢ ᴏғ ᴛʜᴇ ʙᴏᴛ.**\n\n©️ @mr_sukkun**"
+HELP_READ = "➻ ᴜsᴇ /chatgpt write a simple flask app in python.  \n\n **➻ ᴜsᴇ /ping ᴛᴏ ᴄʜᴇᴄᴋ ᴛʜᴇ ᴘɪɴɢ ᴏғ ᴛʜᴇ ʙᴏᴛ.**\n\n©️ @ll_baby_ki26n_ll**"
 HELP_BACK = [
      [
            InlineKeyboardButton(text="Qᴜᴇꜱᴛɪᴏɴ ᴛʜᴀᴛ ᴄʜᴀᴛɢᴘᴛ ᴄᴀɴ ꜱᴏʟᴠᴇ ", url=f"https://t.me/{UPDATE_CHNL}/528"),
